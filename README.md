@@ -149,5 +149,5 @@ Mental Wellness Hospital project/
 ```
 
 ---
-*Dibuat untuk memenuhi tugas matakuliah Pemrograman Web / Basis Data - Teknik Informatika Universitas Pamulang (UNPAM).*
+
 
